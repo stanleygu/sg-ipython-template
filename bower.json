@@ -1,8 +1,10 @@
 {
   "name": "sg-ipython-template",
-  "version": "0.0.1",
-  "dependencies": {
-  },
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": [
+    "dist/sg-ipython-template.js"
+  ],
   "devDependencies": {
     "angular": "latest",
     "angular-mocks": "latest",
