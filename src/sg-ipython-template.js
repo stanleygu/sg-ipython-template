@@ -1,7 +1,7 @@
 /*jshint quotmark: false*/
 'use strict';
 
-angular.module('stanleygu.ipythonTemplate')
+angular.module('stanleygu.ipythonTemplate', [])
   .value('sgIpythonTemplate', {
     empty: {
       "metadata": {},
